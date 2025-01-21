@@ -28,7 +28,6 @@
     background-color: rgb(63, 171, 176);
     padding-top: 25px;
     padding-bottom: 25px;
-    margin-top: 50px;
 }
 
 .subscription__header {
@@ -76,12 +75,15 @@
 
 .why__wrapper {
     background-color: rgb(106, 197, 202);
+    width: 50%;
+    margin-top: 30px;
     
 
 }
 
 .sub__container {
-    
+    width: 50%;
+    margin-top: 30px;
 }
 
 .text__wrapper {
@@ -116,6 +118,15 @@
         text-decoration: none;
     }
 
+    .subscription__container {
+        display: flex;
+        width: 100%;
+    }
+
+    .site__container {
+        margin: 0 auto;
+        max-width: 650px;
+    }
  
 
     

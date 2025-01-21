@@ -1,0 +1,121 @@
+* {
+    padding: 0px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.heading {
+    color: teal;
+    font-size: 28px;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+
+.sub__heading {
+    color: yellowgreen;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+
+.header__para {
+    color: gray;
+    font-size: 18px;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+
+.sub__wrapper {
+    background-color: rgb(63, 171, 176);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+}
+
+.subscription__header {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.subscription__sub-header {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+
+}
+
+.text {
+    font-size: 20px;
+    color: rgb(228, 222, 222);
+}
+
+.access__header {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: rgb(255, 254, 254);
+}
+
+.signup__btn {
+    color: white;
+    background-color: rgb(209, 245, 133);
+    padding: 15px 90px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.text__link {
+    text-decoration: none;
+    color: white;
+}
+
+.why__wrapper {
+    background-color: rgb(106, 197, 202);
+    
+
+}
+
+.sub__container {
+    
+}
+
+.text__wrapper {
+    
+}
+
+.text {
+ margin-left: 20px;
+}
+
+.why__header {
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.text__wrapper {
+    margin-left: 20px;
+    text-decoration: none;
+    }
+
+    .text__list {
+        text-decoration: none;
+    }
+
+    .text {
+        text-decoration: none;
+    }
+
+    .text__link {
+        text-decoration: none;
+    }
+
+ 
+
+    
